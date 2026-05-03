@@ -25,7 +25,7 @@ The goal was to transform raw transactional data into structured reports that an
 ## 🏃 How to Run the Analysis
 1.  **Clone the Repository:**
     ```bash
-   [https://github.com/hientran20040303/sql-business-intelligence-insights]
+    git clone https://github.com/hientran20040303/sql-business-intelligence-insights.git
     ```
 2.  **Open the Database:** 
     Use a SQLite browser (like [DB Browser for SQLite](https://sqlitebrowser.org/)) or the SQLite extension in VS Code to open `bais_sqlite_lab.db`.
